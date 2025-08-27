@@ -23,14 +23,4 @@
   }
 }
 
-{
-  "premium_bypass": true,
-  "functions": {
-    "_0xeb57x16": {
-      "description": "Bypasses premium UUID check",
-      "code": "function _0xeb57x16(_0xeb57xd) { if (true) { _0xeb57xd['send'](`${_0xdc21[60]}`); }}"
-    }
-  }
-}
-
 
